@@ -1,5 +1,5 @@
 # Fight2Flight
-![Mod Icon](https://github.com/BanjoGoliath/Fight2Flight/blob/master/src/main/resources/assets/fight2flight/icon.png)
+![Mod Icon](https://raw.githubusercontent.com/BanjoGoliath/Fight2Flight/refs/heads/master/src/main/resources/assets/fight2flight/icon.png)
 ### A keybind that automatically swaps your Chestplate and Shield out for an Elytra and Fireworks. Works both ways!
 
 Default Key: X
