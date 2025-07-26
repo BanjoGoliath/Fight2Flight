@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "fight2flight",
+  "version": "${version}",
+  "name": "Fight2Flight",
+  "description": "A keybind that automatically swaps your Chestplate and Shield out for an Elytra and Fireworks. Works both ways!",
+  "authors": [
+    "BanjoGoliath"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/project/fight2flight",
+    "sources": "https://github.com/BanjoGoliath/Fight2Flight"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/fight2flight/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "io.github.banjogoliath.fight2flight.client.Fight2FlightClient"
+    ],
+    "main": [
+      "io.github.banjogoliath.fight2flight.Fight2Flight"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
